@@ -1,3 +1,6 @@
+//Delete the comments 
+
+/*
 #ifndef __glut_h__
 #define __glut_h__
 
@@ -800,3 +803,4 @@ GLUTAPI int GLUTAPIENTRY glutGameModeGet(GLenum mode);
 #endif
 
 #endif  
+*/
